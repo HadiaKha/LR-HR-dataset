@@ -1,1 +1,3 @@
 # LR-HR-dataset
+
+This repository contains satellite image patches from two different sources: Low Resolution (LR) Sentinel-2 patches and High Resolution (HR) PlanetScope patches. Both sets of patches are provided as TIF files, each with a shape of 333x333x3. The Sentinel-2 patches represent lower resolution satellite imagery, while the PlanetScope patches offer higher resolution data. These image patches, each consisting of 333x333 pixels with 3 channels, are suitable for various remote sensing applications, such as super-resolution studies, land cover classification, or other geospatial analyses.
